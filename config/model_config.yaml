@@ -1,0 +1,38 @@
+pose_estimation:
+  input_size: [256, 256]
+  num_keypoints: 17
+  backbone: 'resnet34'
+  pretrained: true
+
+action_recognition:
+  sequence_length: 16
+  num_actions: 10
+  hidden_size: 256
+  num_layers: 2
+
+biomechanics:
+  input_dim: 51
+  hidden_dims: [256, 128, 64]
+  output_dim: 6
+
+training:
+  batch_size: 32
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  epochs: 100
+  early_stopping_patience: 10
+
+processing:
+  video:
+    target_fps: 30
+    max_frames: 1000
+    resize: [256, 256]
+  
+  pose:
+    confidence_threshold: 0.3
+    smooth_window: 5
+  
+  tracking:
+    max_age: 30
+    min_hits: 3
+    iou_threshold: 0.3
